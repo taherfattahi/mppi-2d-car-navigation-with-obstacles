@@ -2,7 +2,7 @@
 
 A Python-based demonstration of **Model Predictive Path Integral (MPPI)** control for navigating a simple 2D car model around multiple circular obstacles. This repository showcases how to implement MPPI to minimize a custom cost function while avoiding collisions, and includes an animated Matplotlib visualization of the resulting trajectory.
 
-<img src="mppi_car_animation_multi_obstacles.gif" width="400"/>
+<img src="mppi_car_animation_multi_obstacles.gif" width="500"/>
 
 ## Features
 
